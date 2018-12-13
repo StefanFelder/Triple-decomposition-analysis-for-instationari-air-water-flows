@@ -1,4 +1,4 @@
-<IT License
+MIT License
 
 Triple-decomposition-analysis-for-instationari-air-water-flows (the "Software") 
 Copyright (c) 2018, Stefan Felder
